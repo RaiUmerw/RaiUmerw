@@ -1,6 +1,6 @@
 raiumerwaqas 
-this is my first repository 
-this is used in github.
+this is my first repository. 
+this is only for practice.
 
 
 
